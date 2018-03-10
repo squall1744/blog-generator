@@ -1,0 +1,35 @@
+---
+title: 命令行及git
+date: 2018-03-10 20:39:27
+tags:
+---
+操作|命令
+-|-
+进入目录|cd
+显示当前目录|pwd
+创建目录|mkdir 目录名
+嵌套创建目录|mkdir -p 目录路径
+我是谁|whoami
+查看路径|ls -las
+创建文件|echo '1' > 文件路径
+强制创建文件|echo '1' >! 文件路径
+追加文件内容|echo '1' >> 文件路径
+创建文件|touch 文件名
+改变文件更新时间|touch 文件名
+复制文件|cp 源路径 目标路径
+复制目录|cp -r 源路径 目标路径
+移动节点|mv 源路径 目标路径
+删除文件|rm 文件路径
+强制删除文件|rm -f 文件路径
+删除目录|rm -r 目录路径
+强制删除路径|rm -rf 文件路径
+查看目录结构|tree
+建立软链接|ln -s 真实文件 链接
+下载文件|curl -L https://www.baidu.com > baidu.html
+拷贝网站|wget -p -H -e robots=off https://www.baidu.com
+
+
++ 命令号释义: https://explainshell.com/
++ 命令行常见用法: https://github.com/tldr-pages/tldr#tldr
+
+

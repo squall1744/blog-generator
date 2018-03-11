@@ -1,8 +1,9 @@
 ---
-title: hexo配合Github创建博客.md
+title: hexo配合Github创建博客
 date: 2018-03-10 20:59:38
 tags:  技巧
 ---
+<br />
 #### 使用 Hexo + GitHub 可以轻松搞出一个好看的博客
 
 以下是步骤。
